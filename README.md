@@ -3,6 +3,8 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Description
   Utilizes MongoDB and Mongoose to provide functionality for logging exercises and their details.
+  ## Deployed Site:
+  https://bms-workout-tracker.herokuapp.com/ 
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
