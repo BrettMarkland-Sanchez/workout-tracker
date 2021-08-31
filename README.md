@@ -2,7 +2,7 @@
   # Workout Tracker
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Description
-  Takes user input via the console in Node to produce a coding team webpage.
+  Utilizes MongoDB and Mongoose to provide functionality for logging exercises and their details.
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
