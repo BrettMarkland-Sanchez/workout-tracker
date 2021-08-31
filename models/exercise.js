@@ -13,25 +13,25 @@ const ExerciseSchema = new Schema({
         trim: true,
         required: true
     },
+    distance: {
+        type: Number,
+        trim: true
+    },
     duration: {
         type: Number,
-        trim: true,
-        required: true
+        trim: true
     },
     weight: {
         type: Number,
-        trim: true,
-        required: true
+        trim: true
     },
     reps: {
         type: Number,
-        trim: true,
-        required: true
+        trim: true
     },
     sets: {
         type: String,
-        trim: true,
-        required: true
+        trim: true
     }
 });
 
